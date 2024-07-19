@@ -12,4 +12,4 @@ Multi-User Counter is an application that provides dynamic counter management fo
 - Increase and decrease user counters
 - Change counter names
 
-[Project Link]([https://dkt-en-web-page.netlify.app](https://multi-user-counter.netlify.app)
+[Project Link]([https://dkt-en-web-page.netlify.app](https://multi-user-counter.netlify.app))
