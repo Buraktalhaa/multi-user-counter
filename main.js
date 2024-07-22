@@ -106,7 +106,7 @@ function addUser() {
     newDivElement.innerHTML += ` 
     <button class="btn btn-info" id="increase-${divNumber}">Increase</button>
     <button class="btn btn-info" id="decrease-${divNumber}">Decrease</button>
-    <button class="btn btn-info" id="reset-${divNumber}">Reset User</button>
+    <button class="btn btn-info" id="reset-${divNumber}">Reset</button>
     <div class="mb-3">
     <label for="enteredValue" class="form-label">Change Counter Name</label>
     <input type="text" class="form-control" id="enteredName-${divNumber}" >
